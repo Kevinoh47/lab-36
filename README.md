@@ -1,15 +1,13 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 36 React Context 
+React Context is the underlying framework exploited by Redux.
 
-### Author: Student/Group Name
+### Author: Kevin O'Halloran
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [code sandbox](https://codesandbox.io/s/1onnr8q6ol)
 
 ### Modules
 #### `modulename.js`
